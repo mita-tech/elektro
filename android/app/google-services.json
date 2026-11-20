@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361494703623",
+    "project_id": "pbo9-ec3c5",
+    "storage_bucket": "pbo9-ec3c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361494703623:android:2b853307b6aed4470a84a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pbo_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURxfBs1h38-9gwQGSAtCQNbH5Ug6Hqxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361494703623:android:52969e501ff762140a84a2",
+        "android_client_info": {
+          "package_name": "com.polman.pbo9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURxfBs1h38-9gwQGSAtCQNbH5Ug6Hqxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
